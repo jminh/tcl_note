@@ -1,0 +1,12 @@
+
+*  Hello world 
+
+hello.tcl
+
+#+BEGIN_SRC tcl
+  puts "Hello Tcl"
+#+END_SRC
+
+#+BEGIN_SRC sh
+  tclsh hello.tcl
+#+END_SRC
